@@ -1,4 +1,4 @@
-# formacao-java-e-spring-boot
+# formacao-spring-boot-3
 Estudos da [Formação Java e Spring Boot](https://cursos.alura.com.br/formacao-spring-boot-3) da Alura
 
 ## Cursos
